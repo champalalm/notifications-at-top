@@ -1,12 +1,12 @@
 # Notifications At The Top Of The Screen
 Move windows 11 / 10 notifications to the top of the screen.  
-Update 1.1.0: Support For Microsoft Teams (Work, School, Personal) Notifications. Thanks [shankarnewton](https://github.com/shankarnewton) For The Suggestion.
+Release 1.0.0: Support For Windows Notifications. Thanks [champalalm](https://github.com/champalalm) For The Suggestion.
 
 ![image](https://user-images.githubusercontent.com/79756986/162231083-41700e52-afbe-4009-b0a0-3348f435435e.png)
 
 
 # Usage
-- Download the latest release from [here](https://github.com/SamarthCat/notifications-at-top/releases/latest)
+- Download the latest release from [here](https://github.com/champalalm/notifications-at-top/releases/tag/1.0.0)
 
 - Run ``` topleft.exe ``` for the top left
 
