@@ -1,6 +1,6 @@
 # Notifications At The Top Of The Screen
 Move windows 11 / 10 notifications to the top of the screen.  
-Release 1.0.0: Support For Windows Notifications. Thanks [champalalm](https://github.com/champalalm) For The Suggestion.
+Release 1.0.0: Support For Windows Notifications. Thanks [Champ](https://github.com/champalalm) For The Suggestion.
 
 ![image](https://user-images.githubusercontent.com/79756986/162231083-41700e52-afbe-4009-b0a0-3348f435435e.png)
 
